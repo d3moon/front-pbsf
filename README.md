@@ -34,6 +34,7 @@ ou entre em: [front-pbsf.vercel.app](front-pbsf.vercel.app)
   source venv/bin/activate
   pip install -r requirements.txt
   python3 manage.py runserver
+  python3 manage.py migrate
 ```
 
 ## Authors
