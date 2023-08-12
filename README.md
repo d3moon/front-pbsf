@@ -42,5 +42,3 @@ ou entre em: [front-pbsf.vercel.app](front-pbsf.vercel.app)
 - [João Victor F. Braga](https://www.github.com/d3moon)
 - [LinkedIn](https://www.linkedin.com/in/d3moon)
 
-# front-pbsf
-# front-pbsf
