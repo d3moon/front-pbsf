@@ -23,7 +23,7 @@ Instale e rode o projeto com:
   npm run dev
 ```
 
-ou entre em: [front-pbsf.vercel.app](front-pbsf.vercel.app)
+ou entre em: [front-pbsf.vercel.app](https://front-pbsf.vercel.app)
 
 **Instale o backend necessário:**
 
